@@ -11,6 +11,8 @@ print ("time_sleep=",t)
 import numpy as np
 import matplotlib.pyplot as plt
 print("Python + VS code is working")
+print("Python + VS code is working")
+print("Python + VS code is working")
 
 print(np.array([1,2,3]))
 
